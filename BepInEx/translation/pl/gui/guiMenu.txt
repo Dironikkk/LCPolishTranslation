@@ -1,0 +1,132 @@
+#intro
+LAUNCH MODE=\n\n\n\nTRYB GRY:
+> Online=> ONLINE
+> LAN=> LAN
+  Online=  online
+  LAN=  lan
+  (Recommended)=(Zalecane)
+
+#mainMenu
+> Host=> Stwórz serwer
+> Join a crew=> Wyszukiwarka serwerów
+> Settings=> Ustawienia
+> Credits=> Twórca 
+> Quit=> Wyjdź z gry
+> Join LAN session=> Wyszukiwarka serwerów LAN
+(Launched in LAN mode)=(LAN)
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Zezwalając na połączenia zdalne przez sieć LAN, upewnij się, że masz odpowiednie zabezpieczenia sieciowe, takie jak firewall i/lub VPN.
+
+#hostMenu
+Server name:=Nazwa serwera
+Public=PUBLICZNY
+PUBLIC means your game will be visible on the server list for all to see.=PUBLICZNY: Serwer będzie dostępny dla wszystkich w wyszukiwarce serwerowej.
+Friends-only=PRYWATNY
+PRIVATE means you must send invites through Steam for players to join.=PRYWATNY: Serwer będzie dostępny tylko dla zaproszonych znajomych lub znajomych ze STEAM.
+[ Confirm ]=Potwierdź
+[ Back ]=Anuluj
+Host LAN Server:=Stwórz serwer LAN:
+Local-only= LOKALNIE
+Allow remote connections= ZDALNIE
+
+#savefileMenu
+Save File=Wybierz zapis
+r:"^File ([0-9]+)$"=ZŁOM $1
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nDzień:$2
+r:"^Do you want to delete File ([0-9])\?$"=Czy na pewno chcesz usunąć złomiarzy $1?
+Delete=Usuń
+Go back=Anuluj
+Back=> Wstecz
+r:"^Do you want to delete File ([0-9]+)\?$"=Czy na pewno chcesz usunąć złomiarzy $1?
+
+#serversMenu
+Servers=Wyszukiwarka serwerów
+[ Refresh ]=Odśwież
+Sort: near=Szukaj > Blisko
+Sort: far=Szukaj > Daleko
+Sort: worldwide=Szukaj > Świat
+Join=Dołącz
+> Back to menu=> Wstecz
+
+#settingsMenu
+r:"^Current input device: \\n ([\s\S]*)$"=^Urządzenie nagrywania\n$1
+ENABLED=WŁĄCZONE
+MODE: Push to talk=Naciśnij i Mów
+MODE: Voice activation=Aktywność głosowa
+Master volume:=Głośność ogólna:
+DISPLAY=EKRAN
+Frame rate cap:=Odświeżanie:
+Use monitor (V-Sync)=V-Sync
+Uncapped=Nieograniczone
+r:"^(\d|\d{2}|\d{3}) FPS$"=$1 FPS
+Display mode:=Tryb ekranu:
+Fullscreen=Pełny ekran
+Windowed fullscreen=Okno bez ramki
+Maximized window=Zmaks. okno
+Window=Okno
+Gamma/Brightness:=Gamma/Jasność:
+CONTROLS=ROZGRYWKA
+Look sensitivity:=Czułość myszy:
+Push to talk:=Naciśnij i Mów:
+Invert Y-Axis=Odwróć oś Y:
+> Reset all to default=> Zresetuj wszystkie
+> Confirm changes=> Potwierdź
+BACK=> Wstecz
+ACCESSIBILITY=DOSTĘPNOŚĆ
+Arachnophobia Mode= Tryb arachnofobii
+> Back=> Wstecz
+DISCARD=> Odrzuć
+Discard changes=> Odrzuć
+Unconfirmed changes!=Dokonano zmian
+Discard=Odrzuć
+Confirm=Potwierdź
+Confirm changes?=Potwierdzasz zmiany?
+
+#keybindsMenu
+> Change keybinds=> Przypisane klawisze
+REMAP CONTROLS=STEROWANIE
+Walk forward=Idź do przodu
+Walk back=Idź do tyłu
+Walk left=Idź w lewo
+Walk right=Idź w prawo
+Jump=Skok
+Crouch=Skradanie się
+Interact=Interakcja
+Ping scan=Skanowanie
+Item primary use=Użyj przedmiot [1]
+Item Secondary use=Użyj przedmiot [2]
+Item Tertiary use=Użyj przedmiot [3]
+Item drop=Upuść przedmiot
+Item switch left=Wybierz przedmiot [1]
+Item switch right=Wybierz przedmiot [2]
+Item inspect=Sprawdź przedmiot
+Replace furniture=Przestaw dekorację
+Turn furniture=Obróć dekorację
+Store furniture=Przenieś dekorację do magazynu
+Dance=Tańcz
+Point=Wskaż
+Enable chat=Napisz wiadomość
+Submit chat=Wyślij wiadomość
+REBIND CONTROLLERS=STEROWANIE KONTROLEREM
+Move forward=Idź do przodu
+Move back=Idź do tyłu
+Move left=Idź w lewo
+Move right=Idź w prawo
+Item secondary use=Użyj przedmiot [2]
+Item tertiary use=Użyj przedmiot [3]
+> Set to defaults=> Zresetuj wszystkie
+
+#creditsMenu
+Credits=Twórca
+
+#other
+> Resume=> Wznów
+> Invite friends=> Zaproś znajomych
+r:"^v([0-9]+)$"=v$1
+Would you like to leave the game?=Czy na pewno chcesz opuścić grę?
+> Confirm=> Tak
+> Cancel=> Nie
+Started server, joining...=Serwer startuje, złomowanie...
+Loading...=Kiprowanie złomu...
+Adjust screen brightness until the symbol on the right is barely visible.=Dostosuj jasność ekranu tak, aby symbol po prawej stronie był ledwo widoczny.
+  CONFIRM=  POTWIERDŹ
+Option A=Wariant A

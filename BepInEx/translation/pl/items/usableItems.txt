@@ -1,0 +1,38 @@
+#itemsDrop
+Drop Walkie-talkie : [G]=Wyrzuć przedmiot: [G]
+Drop clipboard : [G]=Wyrzuć przedmiot: [G]
+Drop Zap gun : [G]=Wyrzuć przedmiot: [G]
+Drop Flashlight : [G]=Wyrzuć przedmiot: [G]
+Drop Pro-flashlight : [G]=Wyrzuć przedmiot: [G]
+Drop Stun grenade : [G]=Wyrzuć przedmiot: [G]
+Drop Lockpicker : [G]=Wyrzuć przedmiot: [G]
+Drop Boombox : [G]=Wyrzuć przedmiot: [G]
+Drop Jetpack : [G]=Wyrzuć przedmiot: [G]
+Drop Shovel : [G]=Wyrzuć przedmiot: [G]
+Drop TZP-Inhalant : [G]=Wyrzuć przedmiot: [G]
+Drop Radar-booster : [G]=Wyrzuć przedmiot: [G]
+Drop Extension ladder : [G]=Wyrzuć przedmiot: [G]
+Drop Spray paint : [G]=Wyrzuć przedmiot: [G]
+
+#itemsUse
+Power button : [Q]=Włącz/Wyłącz: [Q]
+Send voice : [LMB]=Mów: [LPM]
+Inspect: [Z]=Inspektowanie: [Z]
+Turn page : [Q/E]=Zmień stronę: [Q/E]
+Scan for threat: [LMB]=Użyj: [LPM]
+Toggle light : [LMB]=Użyj: [LPM]
+Use grenade : [LMB]=Użyj [LPM]
+Throw grenade: [LMB]=Rzuć: [LPM]
+Place on door : [LMB]=Użyj: [LPM]
+Toggle music : [LMB]=Użyj: [LPM]
+Use jetpack : [LMB]=Użyj: [LPM]
+Swing shovel : [LMB]=Atak: [LPM]
+Take TZP : [LMB]=Użyj: [LPM]
+Turn on booster : [LMB]=Użyj [LPM]
+Pop up ladder : [LMB]=Użyj: [LPM]
+Spray : [LMB]=Użyj: [LPM]
+Shake can : [Q]=Wstrząśnij: [Q]
+Pull pin: [LMB]=Wyciągnij zawleczkę: [LPM]
+
+#itemsName
+(Radar booster)=(Wzmacniacz radaru)

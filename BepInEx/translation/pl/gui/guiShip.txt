@@ -1,0 +1,33 @@
+#shipOther
+DOOR HYDRAULICS:=Ciśnienie:
+BROADCASTED SPECIAL CODE=Wykonano polecenie
+(Requires battery-powered item)=Tego tutaj nie naładujesz!
+[Wait for ship to land]=Statek w użyciu...
+Item stored!=Przeniesiono przedmiot do magazynu!
+You can see stored items in the terminal by using command 'STORAGE'=Możesz zobaczyć przechowywane przedmioty w terminalu wpisując polecenie "STORAGE"
+Typing...=Pisze...
+Change suit=Strój Kombinezon\nUbierz: [E]
+(Cannot hold until ship has landed)=Statek na orbicie...
+The file will NOT save! Your ship must be in orbit.=Musisz przebywać na orbicie, aby Twoja gra została zapisana!
+r:"^PROFIT QUOTA:\\n(\$[0-9]+ \/ \$[0-9]+)$"=Kwota:\n$1
+r:"^DEADLINE:\\n([0,5,6,7,8,9]) Days$"=DEADLINE:\n$1 DNI
+r:"^DEADLINE:\\n([2,3,4]) Days$"=DEADLINE:\n$1 DNI
+r:"^DEADLINE:\\n([1]) Days$"=DEADLINE:\n$1 DZIEŃ
+DEADLINE:\n NOW=DEADLINE\nMINĄŁ\n┗|｀O′|┛
+
+
+#shipHolo
+Brake lever=Wystartuj lub wyląduj statkiem
+Lands the ship.=> STER STATKU
+Quota=Sprzedawaj złom, aby zapełnić kwotę
+Sell scrap for cash.=> CEL MISJI
+Door controls=Zarządzaj wejściem do statku
+Can't stay closed forever=> DRZWI STATKU
+Training manual=Przyjaciel każdego złomiarza
+Useful info!=> SZKOLENIE ZAWODOWE
+Terminal=Zarządzanie podróżom i zasobami załogi
+Buy flashlights and travel to new planets!=> CENTRUM DOWODZENIA 
+Coil=Ładowanie przedmiotów
+Charges batteries=> ZASILACZ
+Ship="Bezpieczna strefa"
+Home base=> STATEK

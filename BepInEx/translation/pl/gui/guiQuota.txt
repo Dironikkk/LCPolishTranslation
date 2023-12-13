@@ -1,0 +1,16 @@
+QUOTA REACHED!=Udało się!
+NEW PROFIT QUOTA:=Nowy cel:
+Tip=Napiwek
+Paycheck!=Wyplata!
+HALT!=KOMUNIKAT
+
+1 Day Left=Pozostał jeden dzień.
+2 Days Left=Zostały 2 dni
+0 Days Left=Pozostało 0 dni
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Pozostalo 0 dni na wykonanie misji! Wroc na planete firmy, aby sprzedac przedmioty.
+TO MEET PROFIT QUOTA=na wykonanie misji
+
+Most profitable=Najbardziej przydatny złomiarz.
+Sustained the most injuries.=Otrzymał najwięcej obrażeń.
+The laziest employee.=Najbardziej leniwy złomiarz.
+The most paranoid employee.=Najbardziej paranoiczny złomiarz.

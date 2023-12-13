@@ -1,0 +1,9 @@
+(Requires battery-powered or metal item)=Tego tutaj nie naładujesz!
+Change: Kirby=Strój Kirby\nUbierz: [E]
+Change: Knuckles=Strój Knuckles\nUbierz: [E]
+Change: Luigi=Strój Luigi\nUbierz: [E]
+Change: Mario=Strój Mario\nUbierz: [E]
+Change: Minion=Strój Minion\nUbierz: [E]
+Change: Skeleton=Strój Skeleton\nUbierz: [E]
+Change: Slayer=Strój Slayer\nUbierz: [E]
+Change: Smile=Strój Smile\nUbierz: [E]

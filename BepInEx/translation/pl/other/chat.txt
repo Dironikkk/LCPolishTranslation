@@ -1,0 +1,5 @@
+#chatMessages
+r:"([\s\S]+) joined the ship."=$1 został złomiarzem.
+r:"([\s\S]+) started the ship."=$1 rozpoczął złomowanie.
+r:"([\s\S]+) was left behind."=$1 został na planecie.
+Press "/" to talk.=Naciśnij "/", \naby użyć czatu.

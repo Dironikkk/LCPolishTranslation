@@ -1,0 +1,13 @@
+#autopilotVote
+Tell autopilot ship to leave early : [RMB] (Hold)=AUTOPILOT: Mam udać się na orbitę wcześniej?: [Przytrzymaj PPM]
+Voted for ship to leave early=Zagłosowałeś za wcześniejszym startem statku
+Ship leaving in one hour=Statek odlatuje za godzinę
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=OSTRZEŻENIE! Statek startuje o $1 z powodu głosowania.
+
+#autopilotMessage
+PILOT COMPUTER=AUTOPILOT
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=AUTOPILOT: Statek odleci o północy. Zalecam szybki powrót na statek!
+Alert! The autopilot is leaving due to dangerous conditions.=AUTOPILOT: Statek odlatuje z powodu panujących na planecie niebezpiecznych warunków!
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Firma musi zminimalizować ryzyko uszkodzenia firmowego sprzętu. Do widzenia!
+Warning! No response from crew, which has not returned. Emergency code activated.=Wykryłem zanik funkcji życiwoych u załogi. Uruchamiam procedurę awaryjną!
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Udaje się do najbliższego bezpiecznego portu. Zdobyte dotychczas przedmioty zostaną utracone!
