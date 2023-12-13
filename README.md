@@ -14,7 +14,7 @@ Tłumaczenie powstało dzięki modyfikacji [XUnity.AutoTranslator](https://githu
 6. Wychodzimy z gry, aby przejść do następnego etapu instalacyjnego.
 
 ## Instalacja
-1. Pobieramy [tłumaczenie](https://github.com/Dironikkk/smiercionosna-firma/releases/download/v1.0.0/smiercionosna_firma.rar),
+1. Pobieramy [tłumaczenie](https://github.com/Dironikkk/smiercionosna-firma/releases),
 2. Przechodzimy do plików lokalnych gry,
 3. Przerzucamy cały folder BepInEx (nie martw się tym że tam już jest taki folder, po prostu przerzucaj i licz na to że się nic nie zepsuje),
 4. Uruchamiamy grę i cieszymy się (prawie) dobrym tłumaczeniem.
