@@ -1,7 +1,7 @@
 EMPLOYEE RANK=RANGA ZLOMIARZA
-Boss=Boss
-Leader=Kwalifikowany zlomek
-Employee=Starszy Zlomiarz
-Intern=Mlodszy Zlomek
-Part-timer=Półetatowiec
-Unnamed=Bez nazwy
+Boss= Imperator Rupieci
+Leader=Szrotowy Wirtuoz
+Employee=Rekin Recyklingu
+Intern=Odpadowy As
+Part-timer=Poszukiwacz Rupieci
+Unnamed=

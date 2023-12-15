@@ -1,7 +1,7 @@
-QUOTA REACHED!=Udało się!
+QUOTA REACHED!=SUKCES!
 NEW PROFIT QUOTA:=Nowy cel:
 Tip=Napiwek
-Paycheck!=Wyplata!
+Paycheck!=ZYSK
 HALT!=KOMUNIKAT
 
 1 Day Left=Pozostał jeden dzień.
