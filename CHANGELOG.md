@@ -1,3 +1,7 @@
+## [Hotfix 1.0.42]
+
+## [Hotfix 1.0.41]
+
 ## [Wersja 1.0.4]
 - Wsparcie dla wersji 47.
 - Duże poprawki w tłumaczeniu.

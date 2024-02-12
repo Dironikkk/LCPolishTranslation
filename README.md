@@ -10,7 +10,7 @@ Tłumaczenie zostało wykonane dzięki pluginowi [XUnity.AutoTranslator](https:/
 **Chcesz pomóc w udoskonalaniu tłumaczenia?**
 Zapraszam na [Discorda](https://discord.gg/GAXjKqqHD2).
 **Znalazłeś błąd?**
-Zgłoś go tutaj [tutaj](https://github.com/Dironikkk/smiercionosna-firma/issues).
+Zgłoś go tutaj [tutaj](https://github.com/Dironikkk/LCPolishTranslation/issues).
 
 ## 🛠 Instalacja bez mod managera
 Zawartość pobranego zipa wypakuj a następnie z wypakowanej zawartości wybierz folder `BepInEx` i przerzuć go do folderu instalacyjnego `Lethal Company`. Jeśli wyskoczy Ci komunikat o zamianie plików to kliknij `Zamień pliki w miejscu docelowym` i powinno być dobrze :)
