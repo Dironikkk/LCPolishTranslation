@@ -1,0 +1,81 @@
+﻿# moons
+71 Gordion=71 Gordion
+71 Gordion =71 Gordion
+41 Experimentation=41 Experimentation
+41 Experimentation =41 Experimentation
+220 Assurance=220 Assurance
+220 Assurance =220 Assurance
+56 Vow=56 Vow
+56 Vow =56 Vow
+21 Offense=21 Offense
+21 Offense =21 Offense
+61 March=61 March
+61 March =61 March
+85 Rend=85 Rend
+85 Rend =85 Rend
+7 Dine=7 Dine
+7 Dine =7 Dine
+8 Titan=8 Titan
+8 Titan =8 Titan
+
+# moonsDesc
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=NA ORBICIE：$1\nPOPULACJA：$2\nWARUNKI：$3\nFAUNA：$4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=NA ORBICIE：$1\nPOPULACJA：$2\nWARUNKI：$3\nFAUNA：$4\nPOGODA：$5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=POPULACJA：$1\nWARUNKI：$2\nFAUNA：$3\n$4
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=POPULACJA：$1\nWARUNKI：$2\nFAUNA：$3
+sr:"^CELESTIAL BODY: ([\s\S]+)$"=PLANETA: $1
+Frozen, rocky. Its planet orbits a white dwarf star.=Zamarźnięta, skalista planeta krążąca wokół białego karła.
+Unlikely for complex life to exist.=Istnienie złożonego życia jest mało prawdopodobne.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Skalisty, ogarnięty wieczną zimą księżyc z rozbudowana siecią kopalni.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Podobno coś zamieszkuje te tunele...\n
+Jagged and weathered terrain. =Nieregularny i zniszczony teren. 
+Ecosystem supports territorial behaviour.=Ekosystem wspiera rozwój terytorialnych form życia.
+Ecosystem supports territorial behaviour.\n=Ekosystem wspiera rozwój terytorialnych form życia.\n
+Arid. Thick haze, worsened by industrial artifacts.=Wyjałowiony przez przemysł i pochłonięty przez mgłe księżyc.
+Dominated by a few species.\n=Zdominowany przez kilka form życia.\n
+Humid. Rough terrain. Teeming with plant-life.=Wilgotność na wysokim poziomie, nierówny teren i pełna roślinności planeta.
+A competitive ecosystem supports aggressive lifeforms.\n=Ekosystem wspiera rozwój agresywnych form życia.\n
+Diverse=Zróżnicowana
+Expansive. Constant rain.=Ciągły, ulewny deszcz.
+No land masses. Continual storms.=Brak lądu, ciągłe burze.
+Unknown\nWhere the Company resides.\n=Nieznany\nTutaj znajduje się siedziba Spółki.\n
+
+# weather
+Weather: Eclipsed=Pogoda: Zaćmienie
+Weather: Eclipsed =Pogoda: Zaćmienie
+\nWeather: Eclipsed=\nPogoda: Zaćmienie
+\nWeather: Eclipsed =\nPogoda: Zaćmienie
+Eclipsed=Zaciemnienie
+Eclipsed =Zaciemnienie
+Weather: Flooded=Pogoda: Powódź
+Weather: Flooded =Pogoda: Powódź
+\nWeather: Flooded=\nPogoda: Powódź
+\nWeather: Flooded =\nPogoda: Powódź
+Flooded=Powódź
+Flooded =Powódź
+Weather: Foggy=Pogoda: Mgła
+Weather: Foggy =Pogoda: Mgła
+\nWeather: Foggy=\nPogoda: Mgła
+\nWeather: Foggy =\nPogoda: Mgła
+Foggy=Mgła
+Foggy =Mgła
+Weather: Rainy=Pogoda: Deszcz
+Weather: Rainy =Pogoda: Deszcz
+\nWeather: Rainy=\nPogoda: Deszcz
+\nWeather: Rainy =\nPogoda: Deszcz
+Rainy=Deszcz
+Rainy =Deszcz
+Weather: Stormy=Pogoda: Burza
+Weather: Stormy =Pogoda: Burza
+\nWeather: Stormy=\nPogoda: Burza
+\nWeather: Stormy =\nPogoda: Burza
+Stormy=Burza
+Stormy =Burza
+
+# other
+Abandoned=Brak danych
+Abandoned =Brak danych
+None=Brak
+None =Brak
+Unknown=Nieznany
+Unknown =Nieznany

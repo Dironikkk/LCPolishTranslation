@@ -1,20 +1,19 @@
-# Nieoficjalne tłumaczenie Lethal Company
-Wszelkie błędy w tłumaczeniu proszę zgłaszać [tutaj](https://github.com/Dironikkk/smiercionosna-firma/issues)!
+<p align="center">
+<kbd><img src="https://i.imgur.com/MzJPDNt.png" height="500"/></kbd>
+</p>
 
-*Czcionka zastosowana w grze czasami ma problem z Polskimi znakami, także mogą wychodzić ***"buble"****.
+# LCPolishTranslation
+Plugin, który w miarę możliwości tłumaczy grę `Lethal Company` na język polski.
+Tłumaczenie zostało wykonane dzięki pluginowi [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator).
 
-Tłumaczenie powstało dzięki modyfikacji [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) oraz uprzejmości @Lynxbite, autora [Unofficial Russian Translation](https://thunderstore.io/c/lethal-company/p/LynxBite/Unofficial_Russian_Translation/).
+## Błędy i sugestie
+**Chcesz pomóc w udoskonalaniu tłumaczenia?**
+Zapraszam na [Discorda](https://discord.gg/GAXjKqqHD2).
+**Znalazłeś błąd?**
+Zgłoś go tutaj [tutaj](https://github.com/Dironikkk/smiercionosna-firma/issues).
 
-## Instalacja  (jeśli masz, możesz pominąć ten punkt)
-1. Pobieramy [BepInExPack'a](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/),
-2. Przechodzimy do plików lokalnych gry,
-3. Przerzucamy do niego zawartość folderu BepInExPack,
-4. Uruchamiamy grę i jeśli wszystko działa poprawnie, wraz z grą powinna pojawić się konsola BepInEx,
-5. Wchodzimy do menu głównego, aby wszystko poprawnie się załadowało,
-6. Wychodzimy z gry, aby przejść do następnego etapu instalacyjnego.
+## 🛠 Instalacja bez mod managera
+Zawartość pobranego zipa wypakuj a następnie z wypakowanej zawartości wybierz folder `BepInEx` i przerzuć go do folderu instalacyjnego `Lethal Company`. Jeśli wyskoczy Ci komunikat o zamianie plików to kliknij `Zamień pliki w miejscu docelowym` i powinno być dobrze :)
 
-## Instalacja
-1. Pobieramy [tłumaczenie](https://github.com/Dironikkk/smiercionosna-firma/releases),
-2. Przechodzimy do plików lokalnych gry,
-3. Przerzucamy cały folder BepInEx (nie martw się tym że tam już jest taki folder, po prostu przerzucaj i licz na to że się nic nie zepsuje),
-4. Uruchamiamy grę i cieszymy się (prawie) dobrym tłumaczeniem.
+## 🛠 Instalacja z mod managerem
+Wyszukujesz po nazwie `LCPolishTranslation` i instalujesz, tyle :)

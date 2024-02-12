@@ -1,7 +1,0 @@
-EMPLOYEE RANK=RANGA ZLOMIARZA
-Boss= Imperator Rupieci
-Leader=Szrotowy Wirtuoz
-Employee=Rekin Recyklingu
-Intern=Odpadowy As
-Part-timer=Poszukiwacz Rupieci
-Unnamed=

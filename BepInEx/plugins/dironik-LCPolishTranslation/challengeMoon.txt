@@ -1,0 +1,13 @@
+# challengeMoon
+Challenge Moon $1 Results =Wyzwanie
+Sort: Friends=Szukaj > Znajomi
+Sort: Similar rank=Szukaj > Ranga
+Sort: Top 20=Szukaj > Top 20
+[ Remove my score ]=Resetuj wynik
+[ Play again ]=Zagraj ponownie
+Deceased=Nie żyje
+Collected =Zebrano
+(Removed score)=Usunięto wynik
+This is the weekly challenge moon. You have one day to make as much profit as possible.=Wyzwanie księżycowe. Musisz zarobić najwięcej jak to możliwe.
+This is the weekly challenge moon. You have one day to make as much profit as possible. =Wyzwanie księżycowe. Musisz zarobić najwięcej jak to możliwe.
+This is the weekly challenge moon.\nYou have one day to make as much profit as possible.=Wyzwanie księżycowe. Musisz zarobić najwięcej jak to możliwe.

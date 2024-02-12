@@ -1,4 +1,4 @@
-#intro
+# intro
 LAUNCH MODE=\n\n\n\nTRYB GRY:
 > Online=> ONLINE
 > LAN=> LAN
@@ -6,7 +6,7 @@ LAUNCH MODE=\n\n\n\nTRYB GRY:
   LAN=  lan
   (Recommended)=(Zalecane)
 
-#mainMenu
+# mainMenu
 > Host=> Stwórz serwer
 > Join a crew=> Wyszukiwarka serwerów
 > Settings=> Ustawienia
@@ -16,7 +16,7 @@ LAUNCH MODE=\n\n\n\nTRYB GRY:
 (Launched in LAN mode)=(LAN)
 You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Zezwalając na połączenia zdalne przez sieć LAN, upewnij się, że masz odpowiednie zabezpieczenia sieciowe, takie jak firewall i/lub VPN.
 
-#hostMenu
+# hostMenu
 Server name:=Nazwa serwera
 Public=PUBLICZNY
 PUBLIC means your game will be visible on the server list for all to see.=PUBLICZNY: Serwer będzie dostępny dla wszystkich w wyszukiwarce serwerowej.
@@ -28,7 +28,7 @@ Host LAN Server:=Stwórz serwer LAN:
 Local-only= LOKALNIE
 Allow remote connections= ZDALNIE
 
-#savefileMenu
+# savefileMenu
 Save File=Wybierz zapis
 r:"^File ([0-9]+)$"=ZŁOM $1
 r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nDzień:$2
@@ -38,16 +38,18 @@ Go back=Anuluj
 Back=> Wstecz
 r:"^Do you want to delete File ([0-9]+)\?$"=Czy na pewno chcesz usunąć złomiarzy $1?
 
-#serversMenu
-Servers=Wyszukiwarka serwerów
+# serversMenu
+Servers=Serwery
 [ Refresh ]=Odśwież
 Sort: near=Szukaj > Blisko
 Sort: far=Szukaj > Daleko
 Sort: worldwide=Szukaj > Świat
 Join=Dołącz
 > Back to menu=> Wstecz
+Enter server tag...=Podaj tagi serwera...
+With challenge moon=Wyzwanie księżycowe
 
-#settingsMenu
+# settingsMenu
 r:"^Current input device: \\n ([\s\S]*)$"=^Urządzenie nagrywania\n$1
 ENABLED=WŁĄCZONE
 MODE: Push to talk=Naciśnij i Mów
@@ -57,6 +59,14 @@ DISPLAY=EKRAN
 Frame rate cap:=Odświeżanie:
 Use monitor (V-Sync)=V-Sync
 Uncapped=Nieograniczone
+144 FPS=144 FPS
+144 FPS =144 FPS
+120 FPS=120 FPS
+120 FPS =120 FPS
+60 FPS=60 FPS
+60 FPS =60 FPS
+30 FPS=30 FPS
+30 FPS =30 FPS
 r:"^(\d|\d{2}|\d{3}) FPS$"=$1 FPS
 Display mode:=Tryb ekranu:
 Fullscreen=Pełny ekran
@@ -81,7 +91,7 @@ Discard=Odrzuć
 Confirm=Potwierdź
 Confirm changes?=Potwierdzasz zmiany?
 
-#keybindsMenu
+# keybindsMenu
 > Change keybinds=> Przypisane klawisze
 REMAP CONTROLS=STEROWANIE
 Walk forward=Idź do przodu

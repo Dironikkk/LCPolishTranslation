@@ -1,7 +1,7 @@
 {
     "name": "LCPolishTranslation",
-    "version_number": "1.0.3",
-    "website_url": "https://github.com/Dironikkk/smiercionosna-firma",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/Dironikkk/LCPolishTranslation",
     "description": "Tłumaczenie Lethal Company",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"

@@ -1,4 +1,5 @@
-﻿0 lb=0.0 kg
+﻿# weight
+0 lb=0.0 kg
 1 lb=0.5 kg
 2 lb=0.9 kg
 3 lb=1.4 kg
